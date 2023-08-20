@@ -1,7 +1,6 @@
 "use client"
 import Image from 'next/image';
 import React, { useState } from 'react';
-import ContactList from '../../components/ContactList';
 import SearchBar from '../../components/SearchBar';
 
 export default function Home() {
